@@ -50,7 +50,9 @@ Le système se désactive automatiquement en cas de freinage, collision ou pour 
 
 ## ☕ Remerciements
 
-Ce script est gratuit, créé pour la communauté FiveM.  
-Pour me soutenir : [PayPal](paypal.me/thomas244066)  
+Ce script est gratuit, créé pour le plaisir et la communauté.
+Si vous souhaitez me soutenir, un café via PayPal serait super motivant !
+
+👉 paypal.me/thomas244066
 
 ---
